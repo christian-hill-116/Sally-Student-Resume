@@ -1,1 +1,19 @@
+body{
+  font-family: 'Courier Prime', monospace;
+    background-color: #8decf0;
+    text-align: center;
+}
 
+#sally_photo{
+  width: 200px;
+  height: 300px;
+  
+}
+
+#education ul{
+  list-style-type: none;
+}
+
+#work ul{
+  list-style-type: none;
+}
